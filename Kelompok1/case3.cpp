@@ -7,7 +7,7 @@ using namespace std;
 const int INF = numeric_limits<int>::max();
 const int MAX_NODES = 100;
 
-class Graph
+class Graph 
 {
 private:
   int V;
